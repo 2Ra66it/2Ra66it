@@ -6,3 +6,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2Ra66it&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexanders's GitHub Stats" />
 </a>
 <br><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=2Ra66it&label=Profile%20views&color=2bbc8a&style=flat" alt="2Ra66it"/></p>
